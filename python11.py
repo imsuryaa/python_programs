@@ -4,7 +4,7 @@ class employee:
     company = 'IT Soft Sol'             #Class Variable
 
     def __init__(self,name,empid):
-        self.name = name
+        self.name = name                
         self.empid = empid
     def display(self):
         print('Employee Name: ',self.name)
