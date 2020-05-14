@@ -1,1 +1,1 @@
-Basic functions used by python
+Basics in python
